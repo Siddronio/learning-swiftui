@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Theodore Roosevelt",
+        "image" : "ambition",
+        "quotes": [
+            "Do what you can, with what you have, where you are.",
+            "Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure... than to rank with those poor spirits who neither enjoy nor suffer much, because they live in a gray twilight that knows not victory nor defeat.",
+            "No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it.",
+            "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.",
+            "The boy who is going to make a great man must not make up his mind merely to overcome a thousand obstacles, but to win in spite of a thousand repulses and defeats.",
+            "Courtesy is as much a mark of a gentleman as courage."
+        ]
+    },
+    {
+        "name": "Winston Churchill",
+        "image" : "calm",
+        "quotes": [
+            "The price of greatness is responsibility.",
+            "We are masters of the unsaid words, but slaves of those we let slip out.",
+            "No man is above the law and no man is below it: nor do we ask any man's permission when we ask him to obey it.",
+            "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.",
+            "The boy who is going to make a great man must not make up his mind merely to overcome a thousand obstacles, but to win in spite of a thousand repulses and defeats.",
+            "Courtesy is as much a mark of a gentleman as courage."
+        ]
+    },
+    {
+        "name": "Virginia Woolf",
+        "image" : "focus",
+        "quotes": [
+            "For most of history, Anonymous was a woman.",
+            "Life is not a series of gig lamps symmetrically arranged; life is a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end.",
+            "If you do not tell the truth about yourself you cannot tell it about other people.",
+            "The beauty of the world, which is so soon to perish, has two edges, one of laughter, one of anguish, cutting the heart asunder.",
+            "It is far harder to kill a phantom than a reality.",
+            "It is fatal to be a man or woman pure and simple: one must be a woman manly, or a man womanly."
+        ]
+    },
+    {
+        "name": "Steve Jobs",
+        "image" : "reflect",
+        "quotes": [
+            "Things don't have to change the world to be important.",
+            "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.",
+            "For the past 33 years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something.",
+            "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+            "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.",
+            "We don't get a chance to do that many things, and every one should be really excellent. Because this is our life. Life is brief, and then you die, you know? So this is what we've chosen to do with our life."
+        ]
+    },
+    {
+        "name": "Robin Williams",
+        "image" : "reflect2",
+        "quotes": [
+            "Comedy can be a cathartic way to deal with personal trauma.",
+            "For me, comedy starts as a spew, a kind of explosion, and then you sculpt it from there, if at all. It comes out of a deeper, darker side. Maybe it comes from anger, because I'm outraged by cruel absurdities, the hypocrisy that exists everywhere, even within yourself, where it's hardest to see.",
+            "I used to think that the worst thing in life was to end up alone. It's not. The worst thing in life is to end up with people who make you feel alone.",
+            "The essential truth is that sometimes you're worried that they'll find out it's a fluke, that you don't really have it. You've lost the muse or - the worst dread - you never had it at all. I went through all that madness early on.",
+            "I basically started performing for my mother, going, 'Love me!' What drives you to perform is the need for that primal connection. When I was little, my mother was funny with me, and I started to be charming and funny for her, and I learned that by being entertaining, you make a connection with another person.",
+            "If women ran the world we wouldn't have wars, just intense negotiations every 28 days."
+        ]
+    }
+    
+]
+
