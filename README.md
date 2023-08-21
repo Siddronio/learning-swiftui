@@ -1,8 +1,8 @@
-# Learning SwiftUI
+# 🎒Learning SwiftUI
 
 This project aims to expose my applications created from the exercises performed in SwiftUI.
 
-## Study References
+## 📚 Study References
 
  - [codewithchris](https://codewithchris.com)
  - [Hacking with Swift](https://www.hackingwithswift.com)
